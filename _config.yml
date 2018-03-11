@@ -9,13 +9,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "John's Site"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "John Boniello"
+description              : "Welcome to my site. On this site you will find my semi-regular research roundup, occasional blog posts, 
+                              and my beta or fully active development projects. My goal is to make the hard stuff easier for teachers, 
+                              this means summarizing research and writing programs that might be helpful, 
+                               especially to teachers of students with disabilities and ELLs."
+url                      : "https://jbonz37.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # jbonz37
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -92,8 +95,9 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "John is the Bilingual Special Education Specialist at the Lower Hudons RSE-TASC. He is an Adjunct Professor in the school of Edcuation at Manhattanville College
+                      He likes to read about effective prcactices and systems and enjoys analyzing data to improve those practices and systems."
+  location         : "New York"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -115,7 +119,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : johnboniello
   vine             :
   weibo            :
   xing             :
