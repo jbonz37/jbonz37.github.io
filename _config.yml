@@ -18,7 +18,7 @@ description              : "Welcome to my site. On this site you will find my se
                                especially to teachers of students with disabilities and ELLs."
 url                      : "https://jbonz37.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # jbonz37
+repository               :  jbonz37
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -98,32 +98,32 @@ author:
   bio              : "John is the Bilingual Special Education Specialist at the Lower Hudons RSE-TASC. He is an Adjunct Professor in the school of Edcuation at Manhattanville College
                       He likes to read about effective prcactices and systems and enjoys analyzing data to improve those practices and systems."
   location         : "New York"
-  email            :
+  email            : johnboniello@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/jbonz37/"
   facebook         :
   foursquare       :
-  github           :
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :  "john-boniello-280a2532" 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    :  "9336543/jbonz37" 
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : johnboniello
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :  "https://www.youtube.com/channel/UC6Kb0adIgZcz6Fy1YMfzAXA"
 
 
 # Reading Files
