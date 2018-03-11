@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://jbonz37.github.io
-  - title: "Extended Time Calculator"
+      url: https://jbonz37.github.io
+  #- title: "Extended Time Calculator"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Research Roundup"
+   #- title: "Research Roundup"
   #   url: /year-archive/
-   - title: "Blogs"
+   #- title: "Blogs"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
