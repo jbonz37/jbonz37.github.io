@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: https://jbonz37.github.io/
-  #- title: "Extended Time Calculator"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Extended Time Calculator"
+    url: https://jboz37.github.io/exttimezip
    #- title: "Research Roundup"
   #   url: /year-archive/
    #- title: "Blogs"
